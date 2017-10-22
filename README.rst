@@ -30,10 +30,12 @@ Google Docs
 
 Features
 --------
-Craigslist
+Craigslist:
+
 * 
 
-Google Docs
+Google Docs:
+
 * Convert a public Google Doc URL to HTML
 
 

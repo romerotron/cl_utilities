@@ -1,24 +1,27 @@
 ============
-CL Utilities
+LLabs Utils
 ============
 
 
-.. image:: https://img.shields.io/pypi/v/cl_utilities.svg
-        :target: https://pypi.python.org/pypi/cl_utilities
+.. image:: https://img.shields.io/pypi/v/llabs-utils.svg
+        :target: https://pypi.python.org/pypi/llabs-utils
 
-.. image:: https://img.shields.io/travis/romerotron/cl_utilities.svg
-        :target: https://travis-ci.org/romerotron/cl_utilities
+.. image:: https://img.shields.io/travis/romerotron/llabs-utils.svg
+        :target: https://travis-ci.org/romerotron/llabs-utils
 
 .. image:: https://readthedocs.org/projects/cl-utilities/badge/?version=latest
         :target: https://cl-utilities.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/romerotron/cl_utilities/shield.svg
-     :target: https://pyup.io/repos/github/romerotron/cl_utilities/
+.. image:: https://pyup.io/repos/github/romerotron/llabs-utils/shield.svg
+     :target: https://pyup.io/repos/github/romerotron/llabs-utils/
      :alt: Updates
 
 
-Python utilities for craigslist
+Some Python utilities I'm experimenting with that help with:
+
+Craigslist.org
+Google Docs
 
 
 * Free software: MIT license
@@ -27,8 +30,12 @@ Python utilities for craigslist
 
 Features
 --------
+Craigslist
+* 
 
-* TODO
+Google Docs
+* Convert a public Google Doc URL to HTML
+
 
 Credits
 ---------

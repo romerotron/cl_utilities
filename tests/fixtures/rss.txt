@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://sfbay.craigslist.org/search/tix?format=rss">
+<title>craigslist SF bay area | tickets - by owner search </title>
+<link>https://sfbay.craigslist.org/search/tix</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://sfbay.craigslist.org/search/tix?format=rss</dc:source>
+<dc:title>craigslist SF bay area | tickets - by owner search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-03T09:14:28-07:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/war-on-drugs-pair-of-tickets/6330969480.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/raiders-vs-giants-denkc-sd/6312443595.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/lauren-hill-and-nas/6321038037.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/scz/tix/d/4-tickets-49ers-vs-seattle/6330964218.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/2-tix-gorillaz-at-bill-graham/6323654239.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/chiefs-vs-raidersblack-hole/6321960066.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/gorillaz-with-vince-staples-1/6330961345.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/1-ticket-to-seven-lions-at/6330961216.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/tix/d/mill-valley-film-festival/6330960532.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/2-tix-49ers-vs-seattle/6323203433.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369341.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369721.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/4-tickets-49ers-vs-new-york/6323370079.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323183555.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323182804.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/2-tix-to-afghan-whigs-at/6330955453.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/janet-jackson-in-concord-cheap/6330953185.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/49er-tickets-lower-bowl-10/6291600985.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/gorillaz-ticket-10-4/6330945870.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/monterey-bay-aquarium-tickets/6296193359.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/tix/d/san-francisco-49ers-single/6312454063.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/cory-henry-and-the-funk/6330931835.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/tix/d/four449ers-season-tickets-for/6315831066.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/tix/d/four449ers-season-tickets-for/6315830873.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/tix/d/four449ers-season-tickets-for/6315830660.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/war-on-drugs-pair-of-tickets/6330969480.html">
+<title><![CDATA[War On Drugs a pair of tickets face value (berkeley) &#x0024;116]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/war-on-drugs-pair-of-tickets/6330969480.html</link>
+<description><![CDATA[I can't go unfortunately. $116 for the pair]]></description>
+<dc:date>2017-10-03T08:14:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/war-on-drugs-pair-of-tickets/6330969480.html</dc:source>
+<dc:title><![CDATA[War On Drugs a pair of tickets face value (berkeley) &#x0024;116]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_4XBVyo1Dg49_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T08:14:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/raiders-vs-giants-denkc-sd/6312443595.html">
+<title><![CDATA[Raiders vs Giants ,DEN,KC, SD,  Row 1 great seats (hollister) &#x0024;175]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/raiders-vs-giants-denkc-sd/6312443595.html</link>
+<description><![CDATA[I have 2 Tickets for Raider vs Giants game, Awesome seats, 
+vs. Giants 
+SECT 319, Row 1 
+2 seats, $175 each 
+vs Denv, 
+SECT 314, Row8 
+2 seats, 175 each 
+vs KC 
+SECT 312, Row 6 
+4 seats, 150 each 
+vs SD 312, Row 6 
+2 seats 150 each 
+call ***, I have  ...]]></description>
+<dc:date>2017-10-03T08:12:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/raiders-vs-giants-denkc-sd/6312443595.html</dc:source>
+<dc:title><![CDATA[Raiders vs Giants ,DEN,KC, SD,  Row 1 great seats (hollister) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:12:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/lauren-hill-and-nas/6321038037.html">
+<title><![CDATA[Lauren Hill and Nas (hercules, pinole, san pablo, el sob) &#x0024;50]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/lauren-hill-and-nas/6321038037.html</link>
+<description><![CDATA[Saturday October 7 at 7pm 
+Shoreline, Mt View 
+Section 203 
+Row S 
+Seats 17 and 18 
+I prefer PayPal or Zelle. 
+$100 cash]]></description>
+<dc:date>2017-10-03T08:11:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/lauren-hill-and-nas/6321038037.html</dc:source>
+<dc:title><![CDATA[Lauren Hill and Nas (hercules, pinole, san pablo, el sob) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:11:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/scz/tix/d/4-tickets-49ers-vs-seattle/6330964218.html">
+<title><![CDATA[4 Tickets: 49ers vs Seattle Seahawks @ 11/26 (aptos) &#x0024;135]]></title>
+<link>https://sfbay.craigslist.org/scz/tix/d/4-tickets-49ers-vs-seattle/6330964218.html</link>
+<description><![CDATA[49ers vs Seattle Seahawks on November 26th. Seats are located in section 223 (by Jed York's Luxury Box) - conveniently located near open concourse with easy access to vendors and restrooms. 
+2 Tickets: $145 each ($290 for 2 tickets) 
+4 Tickets: $135  ...]]></description>
+<dc:date>2017-10-03T08:11:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/scz/tix/d/4-tickets-49ers-vs-seattle/6330964218.html</dc:source>
+<dc:title><![CDATA[4 Tickets: 49ers vs Seattle Seahawks @ 11/26 (aptos) &#x0024;135]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:11:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/2-tix-gorillaz-at-bill-graham/6323654239.html">
+<title><![CDATA[2 Tix Gorillaz at Bill Graham on 10/4 - Hard TIX &#x0024;50]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/2-tix-gorillaz-at-bill-graham/6323654239.html</link>
+<description><![CDATA[Gorillaz at Civic Center on 10/4 - SOLD OUT CONCERT 
+2 tix - $50 EACH Hard Tickets 
+I can show proof of purchase. 
+Can meet in SF or Peninsula]]></description>
+<dc:date>2017-10-03T08:10:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/2-tix-gorillaz-at-bill-graham/6323654239.html</dc:source>
+<dc:title><![CDATA[2 Tix Gorillaz at Bill Graham on 10/4 - Hard TIX &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:10:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/chiefs-vs-raidersblack-hole/6321960066.html">
+<title><![CDATA[Chiefs vs Raiders 10/19 Black Hole (gilroy) &#x0024;800]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/chiefs-vs-raidersblack-hole/6321960066.html</link>
+<description><![CDATA[Two tickets sec 104 row 9 in the black hole plus a Blot parking pass. $800 for the package.]]></description>
+<dc:date>2017-10-03T08:09:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/chiefs-vs-raidersblack-hole/6321960066.html</dc:source>
+<dc:title><![CDATA[Chiefs vs Raiders 10/19 Black Hole (gilroy) &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00c0c_avD26y4b2wW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T08:09:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/gorillaz-with-vince-staples-1/6330961345.html">
+<title><![CDATA[Gorillaz with Vince Staples - 1 concert ticket (downtown / civic / van ness) &#x0024;50]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/gorillaz-with-vince-staples-1/6330961345.html</link>
+<description><![CDATA[I can't make the show anymore so i'm selling my ticket. This is a hard copy ticket and have it on hand now, so i cant meet you at a starbucks or similar spot somewhere in SF/oak/berkeley. Cash only.]]></description>
+<dc:date>2017-10-03T08:09:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/gorillaz-with-vince-staples-1/6330961345.html</dc:source>
+<dc:title><![CDATA[Gorillaz with Vince Staples - 1 concert ticket (downtown / civic / van ness) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:09:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/1-ticket-to-seven-lions-at/6330961216.html">
+<title><![CDATA[1 ticket to Seven Lions at Bill Graham 11/18 &#x0024;75]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/1-ticket-to-seven-lions-at/6330961216.html</link>
+<description><![CDATA[Selling 1 hard copy ticket to Seven Lions at Bill Graham on Saturday, 11/18.]]></description>
+<dc:date>2017-10-03T08:09:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/1-ticket-to-seven-lions-at/6330961216.html</dc:source>
+<dc:title><![CDATA[1 ticket to Seven Lions at Bill Graham 11/18 &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:09:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/tix/d/mill-valley-film-festival/6330960532.html">
+<title><![CDATA[Mill Valley Film festival tickets for sale &#x0024;12]]></title>
+<link>https://sfbay.craigslist.org/nby/tix/d/mill-valley-film-festival/6330960532.html</link>
+<description><![CDATA["Human Flow". Playing Larkspur Landing at 7:15pm Thursday October 12 
+Description: Following the success of his extraordinary installation on Alcatraz, renowned artist Ai Weiwei turns his talents to investigating the impact of recent large-scale huma ...]]></description>
+<dc:date>2017-10-03T08:08:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/tix/d/mill-valley-film-festival/6330960532.html</dc:source>
+<dc:title><![CDATA[Mill Valley Film festival tickets for sale &#x0024;12]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:08:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/2-tix-49ers-vs-seattle/6323203433.html">
+<title><![CDATA[2 TIX: 49ers vs Seattle Seahawks on 11/26 &#x0024;150]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/2-tix-49ers-vs-seattle/6323203433.html</link>
+<description><![CDATA[49ers vs Seattle Seahawks on Nov 26th. Seats are located in section 223 (by Jed York's Luxury Box) - conveniently located near open concourse with easy access to vendors and restrooms. 
+2 Tickets: $150 each ($300 for 2 tickets) 
+Tickets electronicall ...]]></description>
+<dc:date>2017-10-03T08:08:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/2-tix-49ers-vs-seattle/6323203433.html</dc:source>
+<dc:title><![CDATA[2 TIX: 49ers vs Seattle Seahawks on 11/26 &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:08:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369341.html">
+<title><![CDATA[2 Tickets: 49ers vs New York Giants on 11/12 &#x0024;150]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369341.html</link>
+<description><![CDATA[49ers vs New York Giants on Nov 12th. Seats are located in section 223 (by Jed York's Luxury Box) - conveniently located near open concourse with easy access to vendors and restrooms. 
+2 Tickets: $150 each ($300 for 2 tickets) 
+Tickets electronically ...]]></description>
+<dc:date>2017-10-03T08:08:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369341.html</dc:source>
+<dc:title><![CDATA[2 Tickets: 49ers vs New York Giants on 11/12 &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:08:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369721.html">
+<title><![CDATA[2 Tickets: 49ers vs New York Giants on 11/12 **Watch OBJ!!!** &#x0024;145]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369721.html</link>
+<description><![CDATA[49ers vs New York Giants on Nov 12th. Seats are located in section 223 (by Jed York's Luxury Box) - conveniently located near open concourse with easy access to vendors and restrooms. 
+2 Tickets: $145 each ($290 for 2 tickets) 
+Tickets electronically ...]]></description>
+<dc:date>2017-10-03T08:08:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/2-tickets-49ers-vs-new-york/6323369721.html</dc:source>
+<dc:title><![CDATA[2 Tickets: 49ers vs New York Giants on 11/12 **Watch OBJ!!!** &#x0024;145]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:08:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/4-tickets-49ers-vs-new-york/6323370079.html">
+<title><![CDATA[4 Tickets: 49ers vs New York Giants on 11/12 &#x0024;135]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/4-tickets-49ers-vs-new-york/6323370079.html</link>
+<description><![CDATA[49ers vs New York Giants on November 12th. Seats are located in section 223 (by Jed York's Luxury Box) - conveniently located near open concourse with easy access to vendors and restrooms. 
+2 Tickets: $145 each ($290 for 2 tickets) 
+4 Tickets: $135 e ...]]></description>
+<dc:date>2017-10-03T08:07:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/4-tickets-49ers-vs-new-york/6323370079.html</dc:source>
+<dc:title><![CDATA[4 Tickets: 49ers vs New York Giants on 11/12 &#x0024;135]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:07:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323183555.html">
+<title><![CDATA[49ers Tickets - Level 200 (2 or 4 seats available) (aptos) &#x0024;100]]></title>
+<link>https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323183555.html</link>
+<description><![CDATA[I am a season ticket holder and have up to 4 season tickets to see the San Francisco 49ers at Levi's Stadium and will sell as pairs (either 2 or 4). 
+Seats are located in section 223 Row 20 - right below Jed York's Luxury Box. Seats are conveniently  ...]]></description>
+<dc:date>2017-10-03T08:07:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323183555.html</dc:source>
+<dc:title><![CDATA[49ers Tickets - Level 200 (2 or 4 seats available) (aptos) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:07:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323182804.html">
+<title><![CDATA[49ers Tickets - Level 200 (2 or 4 seats available) (aptos) &#x0024;100]]></title>
+<link>https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323182804.html</link>
+<description><![CDATA[I am a season ticket holder and have up to 4 season tickets to see the San Francisco 49ers at Levi's Stadium and will sell as pairs (either 2 or 4). 
+Seats are located in section 223 Row 20 - right below Jed York's Luxury Box. Seats are conveniently  ...]]></description>
+<dc:date>2017-10-03T08:07:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/scz/tix/d/49ers-tickets-levelor-4-seats/6323182804.html</dc:source>
+<dc:title><![CDATA[49ers Tickets - Level 200 (2 or 4 seats available) (aptos) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:07:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/2-tix-to-afghan-whigs-at/6330955453.html">
+<title><![CDATA[2 tix to Afghan Whigs at Fillmore on Oct 14 - $35/each (Noe Valley) &#x0024;70]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/2-tix-to-afghan-whigs-at/6330955453.html</link>
+<description><![CDATA[Selling two tickets to The Afghan Whigs at The Fillmore on Sat, Oct 14th. Asking $70 for the pair.' 
+These are hard-copy tickets. Email me to coordinate a time to meet up this week or next to get them. I live in Noe Valley.]]></description>
+<dc:date>2017-10-03T08:05:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/2-tix-to-afghan-whigs-at/6330955453.html</dc:source>
+<dc:title><![CDATA[2 tix to Afghan Whigs at Fillmore on Oct 14 - $35/each (Noe Valley) &#x0024;70]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:05:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/janet-jackson-in-concord-cheap/6330953185.html">
+<title><![CDATA[Janet Jackson in Concord (CHEAP) (financial district) &#x0024;65]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/janet-jackson-in-concord-cheap/6330953185.html</link>
+<description><![CDATA[Had a last minute work event come up and have to sell my ticket (1) for Thursday's show in Concord (after waiting two years to go!!). In pavilion, section 209. Will sell for cheap. 
+Can email or transfer directly through StubHub. Don't miss your chan ...]]></description>
+<dc:date>2017-10-03T08:03:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/janet-jackson-in-concord-cheap/6330953185.html</dc:source>
+<dc:title><![CDATA[Janet Jackson in Concord (CHEAP) (financial district) &#x0024;65]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T08:03:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/49er-tickets-lower-bowl-10/6291600985.html">
+<title><![CDATA[49er tickets lower bowl 10 rows from the field (fremont / union city / newark) &#x0024;1]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/49er-tickets-lower-bowl-10/6291600985.html</link>
+<description><![CDATA[I'm a season ticket holder and selling my tickets for the following games. My seats are in section 106 row 10 seats 25 &amp; 26. 
+I accept paypal because it protects both parties. 
+The 49ers don't give out hard copy tickets. I will transfer them usin ...]]></description>
+<dc:date>2017-10-03T08:01:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/49er-tickets-lower-bowl-10/6291600985.html</dc:source>
+<dc:title><![CDATA[49er tickets lower bowl 10 rows from the field (fremont / union city / newark) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_l5P2spIXuUn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T08:01:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/gorillaz-ticket-10-4/6330945870.html">
+<title><![CDATA[Gorillaz Ticket 10/4 (milpitas) &#x0024;65]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/gorillaz-ticket-10-4/6330945870.html</link>
+<description><![CDATA[Hey there I'm selling one Hard copy ticket for face value! Text or call if serious.]]></description>
+<dc:date>2017-10-03T07:59:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/gorillaz-ticket-10-4/6330945870.html</dc:source>
+<dc:title><![CDATA[Gorillaz Ticket 10/4 (milpitas) &#x0024;65]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T07:59:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/monterey-bay-aquarium-tickets/6296193359.html">
+<title><![CDATA[Monterey Bay Aquarium tickets (oakland hills / mills) &#x0024;20]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/monterey-bay-aquarium-tickets/6296193359.html</link>
+<description><![CDATA[I have 2 Monterey Bay Aquarium passes - transferable guest passes which came with Monterey Bay Aquarium membership. The passes are good for any age and any day, no photo ID is needed to use them. Big advantage - with these passes you can use Express  ...]]></description>
+<dc:date>2017-10-03T07:58:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/monterey-bay-aquarium-tickets/6296193359.html</dc:source>
+<dc:title><![CDATA[Monterey Bay Aquarium tickets (oakland hills / mills) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_4ghdBo1fsjd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T07:58:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/tix/d/san-francisco-49ers-single/6312454063.html">
+<title><![CDATA[San Francisco 49ers Single Game Tickets (san jose south) &#x0024;1]]></title>
+<link>https://sfbay.craigslist.org/sby/tix/d/san-francisco-49ers-single/6312454063.html</link>
+<description><![CDATA[FAITHFUL THEN....FAITHFUL NOW!!! 
+Up for sale are some of my season tickets. I have 2 tickets available for each games listed below. They are in Sec 224 / Row 15 (pictured above). Price listed is for the pair (2 seats). No parking pass included. 
+Tic ...]]></description>
+<dc:date>2017-10-03T07:58:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/tix/d/san-francisco-49ers-single/6312454063.html</dc:source>
+<dc:title><![CDATA[San Francisco 49ers Single Game Tickets (san jose south) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_1FrxLlW5xI3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T07:58:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/cory-henry-and-the-funk/6330931835.html">
+<title><![CDATA[Cory Henry and the Funk Apostles (2 tix) &#x0024;56]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/cory-henry-and-the-funk/6330931835.html</link>
+<description><![CDATA[Two tickets for Cory Henry and the Funk Apostles at the Independent, this Friday Oct 6. I saw him at SF Jazz, and it was amazing! Sadly, I can't make this show. 
+Selling at face value. $56 includes two electronic tickets and service fees.]]></description>
+<dc:date>2017-10-03T07:49:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/cory-henry-and-the-funk/6330931835.html</dc:source>
+<dc:title><![CDATA[Cory Henry and the Funk Apostles (2 tix) &#x0024;56]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-03T07:49:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/tix/d/four449ers-season-tickets-for/6315831066.html">
+<title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! (american canyon) &#x0024;125]]></title>
+<link>https://sfbay.craigslist.org/eby/tix/d/four449ers-season-tickets-for/6315831066.html</link>
+<description><![CDATA[I have up to 4 lower level season tickets to see the San Francisco 49ers at Levi's Stadium for the upcoming 2017-2018 season. I currently own two seats and my friend owns the other two seat. All 4 are right next to each other which makes it convenien ...]]></description>
+<dc:date>2017-10-03T07:48:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/tix/d/four449ers-season-tickets-for/6315831066.html</dc:source>
+<dc:title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! (american canyon) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_d1Z2LCkvgX4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T07:48:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/tix/d/four449ers-season-tickets-for/6315830873.html">
+<title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! &#x0024;125]]></title>
+<link>https://sfbay.craigslist.org/nby/tix/d/four449ers-season-tickets-for/6315830873.html</link>
+<description><![CDATA[I have up to 4 lower level season tickets to see the San Francisco 49ers at Levi's Stadium for the upcoming 2017-2018 season. I currently own two seats and my friend owns the other two seat. All 4 are right next to each other which makes it convenien ...]]></description>
+<dc:date>2017-10-03T07:48:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/tix/d/four449ers-season-tickets-for/6315830873.html</dc:source>
+<dc:title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_d1Z2LCkvgX4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T07:48:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/tix/d/four449ers-season-tickets-for/6315830660.html">
+<title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! &#x0024;125]]></title>
+<link>https://sfbay.craigslist.org/sfc/tix/d/four449ers-season-tickets-for/6315830660.html</link>
+<description><![CDATA[I have up to 4 lower level season tickets to see the San Francisco 49ers at Levi's Stadium for the upcoming 2017-2018 season. I currently own two seats and my friend owns the other two seat. All 4 are right next to each other which makes it convenien ...]]></description>
+<dc:date>2017-10-03T07:48:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/tix/d/four449ers-season-tickets-for/6315830660.html</dc:source>
+<dc:title><![CDATA[Four(4)49ers season tickets for sale. lower level section 130. Cheap! &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_d1Z2LCkvgX4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-03T07:48:28-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

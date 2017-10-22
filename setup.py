@@ -12,7 +12,9 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    # TODO: put package requirements here
+    'feedparser', 
+    'requests', 
+    'beautifulsoup4'
 ]
 
 setup_requirements = [
@@ -20,25 +22,28 @@ setup_requirements = [
 ]
 
 test_requirements = [
-    # TODO: put package test requirements here
+    'feedparser', 
+    'requests', 
+    'beautifulsoup4',
+    'pytest'
 ]
 
 setup(
-    name='cl_utilities',
+    name='llabs-utils',
     version='0.1.0',
-    description="Python utilities for craigslist",
+    description="Python utilities for craigslist, google docs",
     long_description=readme + '\n\n' + history,
     author="Allen Romero",
     author_email='romeroax@gmail.com',
-    url='https://github.com/romerotron/cl_utilities',
-    packages=find_packages(include=['cl_utilities']),
+    url='https://github.com/romerotron/llabs-utils',
+    packages=find_packages(include=['llabs-utils']),
     include_package_data=True,
     install_requires=requirements,
     license="MIT license",
     zip_safe=False,
-    keywords='cl_utilities',
+    keywords='llabs-utils craigslist google docs',
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',

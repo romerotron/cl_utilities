@@ -20,8 +20,8 @@ LLabs Utils
 
 Some Python utilities I'm experimenting with that help with:
 
-Craigslist.org
-Google Docs
+* Parsing Craigslist.org RSS Feeds
+* Google Docs
 
 
 * Free software: MIT license

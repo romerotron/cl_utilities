@@ -18,10 +18,22 @@ LLabs Utils
      :alt: Updates
 
 
-Some Python utilities I'm experimenting with that help with:
+This project is a work in progress. These are some Python utilities I'm experimenting with that help me do a few tasks with the websites hanglocal.us, ticketmatch.com, allenromero.com and gonzaloromeromd.com:
 
 * Parsing Craigslist.org RSS Feeds
 * Google Docs
+
+This software may not be 100% complete.
+
+
+ToDo
+--------
+Google Docs:
+    * Test and ensure link cleaning working.
+    
+
+License
+--------
 
 
 * Free software: MIT license
